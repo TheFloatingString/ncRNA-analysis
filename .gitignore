@@ -1,2 +1,9 @@
 src/.ipynb_checkpoints
 src/__pycache__
+results/ncrna_count-length-8-archive.json
+results/ncrna_count-length-continuous-4.json
+results/ncrna_count-length-4.json
+results/ncrna-onconc-count-length-8.json
+data/CRCh38_latest_genomic.gff
+data/GRCh38_latest_rna.fna
+data/sample.gff
